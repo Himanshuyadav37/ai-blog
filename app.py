@@ -27,7 +27,7 @@ h1, h2, h3 { color: #ffffff; }
 """, unsafe_allow_html=True)
 
 # ---------------- HEADER ----------------
-st.markdown("<h1>📝 AI Blog Writing Agent</h1>", unsafe_allow_html=True)
+st.markdown("<h1>📝 BlogVerse</h1>", unsafe_allow_html=True)
 st.caption("AI • RAG • Parallel • Streaming • History")
 
 # ---------------- SIDEBAR ----------------
